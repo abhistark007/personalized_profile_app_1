@@ -1,16 +1,14 @@
-# personalized_profile_app_1
+![logo1](https://user-images.githubusercontent.com/58290134/190852466-bedb314b-d6b9-4795-b590-ffb7276617b0.png)
 
-A new Flutter project.
+App Idea: A personalized app in which we can store our CV,important images , docs and stuff so we
+can refer to those things at any given point of time.
 
-## Getting Started
+App Name: Personalized Profile 1.0.0
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ OFFLINE VERSION
+- [ ] Should have option to add links like Github, LinkedIn etc
+- [ ] Should have option to Edit links like Github, LinkedIn etc
+- [ ] Should have option to delete links like Github, LinkedIn etc
+- [ ] Onboarding screen
+- [ ] First Time input i.e filling details like Name, DOB, Gender, etc
+- [ ] Ability to add sections ,fill them and save them also
